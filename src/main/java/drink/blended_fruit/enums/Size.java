@@ -1,7 +1,7 @@
-package drink.blendedFruit;
+package drink.blended_fruit.enums;
 
 public enum Size {
-	
+
 	SMALL(3), MEDIUM(6), LARGE(9);
 
 	private final String name;

@@ -1,4 +1,4 @@
-package drink.blendedFruit;
+package drink.blended_fruit.enums;
 
 import java.math.BigDecimal;
 import java.util.Collections;

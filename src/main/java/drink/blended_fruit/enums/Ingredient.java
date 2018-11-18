@@ -1,14 +1,14 @@
-package drink.blendedFruit;
+package drink.blended_fruit.enums;
 
 import java.math.BigDecimal;
 
 public enum Ingredient {
-	
+
 	STRAWBERRY_G("0.04"), 
 	BANANA_G("0.04"), 
 	MANGO_G("0.045"), 
 	CONDENSED_MILK_ML("0.02"), 
-	ICE_ML("0.015"), 
+	ICE_ML("0.015"),
 	SUGAR_G("0.010");
 
 	private final String name;

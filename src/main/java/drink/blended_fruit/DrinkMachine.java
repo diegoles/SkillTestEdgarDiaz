@@ -1,10 +1,14 @@
-package drink.blendedFruit;
+package drink.blended_fruit;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.Map;
+
+import drink.blended_fruit.enums.Drink;
+import drink.blended_fruit.enums.Ingredient;
+import drink.blended_fruit.utils.DrinkMachineUtil;
 
 public class DrinkMachine {
 
